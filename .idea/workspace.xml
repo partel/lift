@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b885def-f15f-4c8b-bcea-401d9a98796e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1X79g0ttsAJaKHFvcg5IfwT3HGp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="$USER_HOME$/.nvm/versions/node/v8.4.0/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LiftTest">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LiftTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit5.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LiftTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LiftTest.shouldArriveAtCalledFloor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit5.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LiftTest" />
+      <option name="METHOD_NAME" value="shouldArriveAtCalledFloor" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit5.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ThingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LiftTest" />
+        <item itemvalue="JUnit.LiftTest.shouldArriveAtCalledFloor" />
+        <item itemvalue="JUnit.ThingTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b885def-f15f-4c8b-bcea-401d9a98796e" name="Default Changelist" comment="" />
+      <created>1580386372792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580386372792</updated>
+      <workItem from="1580386380482" duration="134000" />
+      <workItem from="1582717593002" duration="36000" />
+      <workItem from="1582725807187" duration="2278000" />
+      <workItem from="1582808284853" duration="2215000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1874" height="179" key="GridCell.Tab.0.bottom" timestamp="1582811053084">
+      <screen x="1063" y="0" width="857" height="1200" />
+    </state>
+    <state width="1874" height="179" key="GridCell.Tab.0.bottom/1004.1200.1920.1080/1063.0.857.1200/1920.0.1920.1200@1063.0.857.1200" timestamp="1582811053084" />
+    <state width="1815" height="179" key="GridCell.Tab.0.bottom/1004.1200.1920.1080/59.27.1861.1053/1920.0.1920.1200@59.27.1861.1053" timestamp="1582810206944" />
+    <state width="1874" height="179" key="GridCell.Tab.0.center" timestamp="1582811053084">
+      <screen x="1063" y="0" width="857" height="1200" />
+    </state>
+    <state width="1874" height="179" key="GridCell.Tab.0.center/1004.1200.1920.1080/1063.0.857.1200/1920.0.1920.1200@1063.0.857.1200" timestamp="1582811053084" />
+    <state width="1815" height="179" key="GridCell.Tab.0.center/1004.1200.1920.1080/59.27.1861.1053/1920.0.1920.1200@59.27.1861.1053" timestamp="1582810206944" />
+    <state width="1874" height="179" key="GridCell.Tab.0.left" timestamp="1582811053083">
+      <screen x="1063" y="0" width="857" height="1200" />
+    </state>
+    <state width="1874" height="179" key="GridCell.Tab.0.left/1004.1200.1920.1080/1063.0.857.1200/1920.0.1920.1200@1063.0.857.1200" timestamp="1582811053083" />
+    <state width="1815" height="179" key="GridCell.Tab.0.left/1004.1200.1920.1080/59.27.1861.1053/1920.0.1920.1200@59.27.1861.1053" timestamp="1582810206944" />
+    <state width="1874" height="179" key="GridCell.Tab.0.right" timestamp="1582811053084">
+      <screen x="1063" y="0" width="857" height="1200" />
+    </state>
+    <state width="1874" height="179" key="GridCell.Tab.0.right/1004.1200.1920.1080/1063.0.857.1200/1920.0.1920.1200@1063.0.857.1200" timestamp="1582811053084" />
+    <state width="1815" height="179" key="GridCell.Tab.0.right/1004.1200.1920.1080/59.27.1861.1053/1920.0.1920.1200@59.27.1861.1053" timestamp="1582810206944" />
+  </component>
+</project>
